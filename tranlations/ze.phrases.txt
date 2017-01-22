@@ -1,0 +1,53 @@
+"Phrases"
+{
+	"supply ammo received"
+	{
+		"en"		"Received Ammo supply, When u Leave Zone, U will Get Grenade Supply."
+		"chi"		"你已获得子弹补给,当你离开的时候,你将会获得手雷补给"
+		"zho"		"你已經獲得子彈補充,當你離開時,你會得到手榴彈補充"
+	}
+	
+	"supply freeze received"
+	{
+		"en"		"Received [{red}HEGrenade{darkred} x2{normal}]|[{blue}FreezeGrenade{darkred} x1{normal}]"
+		"chi"		"你获得了补给[{red}高爆雷{darkred}x2{normal}]|[{blue}冰冻雷{darkred}x1{normal}]"
+		"zho"		"你得到了補充[{red}手榴彈{darkred}x2{normal}]|[{blue}冰凍雷{darkred}x1{normal}]"
+	}
+	
+	"supply push received"
+	{
+		"en"		"Received [{red}HEGrenade{darkred} x2{normal}]|[{blue}FreezeGrenade{darkred} x1{normal}]|[{lightgreen}Molotov{darkred} x1{normal}]|[{olive}PushGrenade{darkred} x1{normal}]"
+		"chi"		"你获得了补给[{red}高爆雷{darkred}x2{normal}]|[{lightgreen}燃烧瓶{darkred}x1{normal}]|[{blue}冰冻雷{darkred}x1{normal}]|[{olive}屏障雷{darkred}x1{normal}]"
+		"zho"		"你得到了補充[{red}手榴彈{darkred}x2{normal}]|[{lightgreen}燃燒瓶{darkred}x1{normal}]|[{blue}冰凍雷{darkred}x1{normal}]|[{olive}屏障雷{darkred}x1{normal}]"
+	}
+	
+	"turn back to human"
+	{
+		"#format"	"{1:N}"
+		"en"		"{blue}The Goddess make {green}{1} {blue} Human"
+		"chi"		"{green}{1}{blue}接受了女神之光,变回了人类"
+		"zho"		"{green}{1}{blue}接受了女神之光,變回了人類"
+	}
+	
+	"no enough zombies"
+	{
+		"en"		"{green}Not enough zombies"
+		"chi"		"{green}当前僵尸数量不足,你无法恢复成人类"
+		"zho"		"{green}當前喪屍數量不夠,你不能變回人類"
+	}
+	
+	"goddess left"
+	{
+		"en"		"{green}Goddess has left, see you next time."
+		"chi"		"{green}女神已离开,下次再来吧"
+		"zho"		"{green}女神已經離開,下次再來吧"
+	}
+	
+	"immune infect coutdown"
+	{
+		"#format"	"{1:d}"
+		"en"		"{green}immune infect in {red}{1}{green}s"
+		"chi"		"{green}你的免疫时间还剩{red}{1}{green}秒"
+		"zho"		"{green}你的血清時效還有{red}{1}{green}秒"
+	}
+}
